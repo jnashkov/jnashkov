@@ -32,6 +32,7 @@
 
 ## Most Used Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&layout=compact)](https://github.com/jnashkov/github-readme-stats)
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&hide_border=true">
 
 ## Github Stats
