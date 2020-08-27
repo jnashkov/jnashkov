@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 ## I'm developer
 - 🌱 I’m currently learning Angular
 - 🔭 I’m currently working on e-commerce project 😄
+
+<br/>
+<br/>
 
 ### Connect with me 📫 :
 
@@ -12,6 +15,7 @@
 [<img align="left" alt="instagram" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg">][instagram]
 [<img align="left" alt="twitter" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg">][twitter]
 
+<br/>
 <br/>
 
 ### Languages and Tools:
@@ -29,7 +33,9 @@
 
 <img align="left" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
 
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&layout=compact">
+<br/>
+
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&layout=compact">
 
 [website]: https://jnashkov.github.io/
 [linkedin]: https://www.linkedin.com/in/jovan-nashkov-b09819a7/
