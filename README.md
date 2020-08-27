@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Angular
 - 🔭 I’m currently working on e-commerce project 😄
 
-<br/>
 
 ## Connect with me 📫 :
 
