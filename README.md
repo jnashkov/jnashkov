@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on e-commerce project 😄
 
 <br/>
-<br/>
 
 ### Connect with me 📫 :
 
@@ -33,6 +32,7 @@
 
 <img align="left" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
 
+<br/>
 <br/>
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&layout=compact">
