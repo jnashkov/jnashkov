@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
+<img align="right" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
 
 [website]: https://jnashkov.github.io/
 [linkedin]: https://www.linkedin.com/in/jovan-nashkov-b09819a7/
