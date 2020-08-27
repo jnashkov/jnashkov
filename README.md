@@ -34,7 +34,6 @@
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&hide_border=true">
 
-## Github Stats
 <img align="left" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
 
 [website]: https://jnashkov.github.io/
