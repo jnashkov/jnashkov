@@ -30,12 +30,12 @@
 <br/>
 <br/>
 
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&hide_border=true">
+
+<br/>
+<br/>
+
 <img align="left" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
-
-<br/>
-<br/>
-
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&layout=compact">
 
 [website]: https://jnashkov.github.io/
 [linkedin]: https://www.linkedin.com/in/jovan-nashkov-b09819a7/
