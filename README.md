@@ -6,7 +6,7 @@
 
 <br/>
 
-### Connect with me 📫 :
+## Connect with me 📫 :
 
 [<img align="left" alt="portfolio" width="22px" src="https://image.flaticon.com/icons/svg/265/265674.svg">][website]
 [<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg">][linkedin]
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="html" width="26px" src="https://image.flaticon.com/icons/svg/919/919827.svg">
@@ -30,7 +30,12 @@
 <br/>
 <br/>
 
+## Most Used Languages
+
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnashkov&hide_border=true">
+
+## Github Stats
+
 <img align="right" alt="JNashkov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jnashkov&show_icons=true&hide_border=true">
 
 [website]: https://jnashkov.github.io/
